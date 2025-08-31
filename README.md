@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Wale and I'm student who always loves getting hands on and building new stuff , just as long as it soles problems 
+
+- 🔭 I’m currently working on TaskManagerAPI , well cuz my noifications app doesn't do enough justice to my schedule
+- I recently built a platform to educate people about safe ways to invest thier money , check it out here
+   - https://investnaijaauthapi.azurewebsites.net/
+- 🌱 I’m currently learning Matlab/Simulink and Computer vision using python 
+- 👯 I’m looking to collaborate on Open Source projects that solve everyday needs
+   - contact me at gbemibabawale@gmail.com
 
 <!--
 **123-walex/123-walex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
